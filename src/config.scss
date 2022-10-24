@@ -1,0 +1,18 @@
+$surface1: var(--surface1);
+$surface2: var(--surface2);
+
+$dynamic1: var(--dynamic1);
+$dynamic2: var(--dynamic2);
+
+$text1: var(--text1);
+$text2: var(--text2);
+
+$animeIn: var(--animeIn);
+$animeOut: var(--animeOut);
+
+$font: var(--font);
+$border: var(--border);
+
+* {
+    font-family: $font;
+}
